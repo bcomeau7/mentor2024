@@ -1601,7 +1601,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"/src/main.js"
         }, 
         {
          "name":"tutorial",
