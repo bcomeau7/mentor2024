@@ -5,11 +5,6 @@
         {
          "height":32,
          "width":32
-        },
-     "export":
-        {
-         "format":"json",
-         "target":"map.json"
         }
     },
  "height":48,
@@ -1596,7 +1591,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/workadventure.github.io\/mentor2024\/map.json"
+         "value":"https:\/\/workadventure.github.io\/workshop\/map.json"
         }, 
         {
          "name":"mapName",
