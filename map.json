@@ -1596,7 +1596,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/workadventure.github.io\/workshop\/map.json"
+         "value":"https:\/\/workadventure.github.io\/mentor2024\/map.json"
         }, 
         {
          "name":"mapName",
