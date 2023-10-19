@@ -3683,7 +3683,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets\/modern_generic.png",
+         "image":"/tilesets\/modern_generic.png",
          "imageheight":1920,
          "imagewidth":512,
          "margin":0,
@@ -3696,7 +3696,7 @@
         {
          "columns":40,
          "firstgid":496,
-         "image":"tilesets\/modern_walls_and_floors.png",
+         "image":"/tilesets\/modern_walls_and_floors.png",
          "imageheight":1856,
          "imagewidth":1280,
          "margin":0,
@@ -3719,7 +3719,7 @@
         {
          "columns":6,
          "firstgid":2585,
-         "image":"tilesets\/special-zones.png",
+         "image":"/tilesets\/special-zones.png",
          "imageheight":512,
          "imagewidth":192,
          "margin":0,
@@ -3742,7 +3742,7 @@
         {
          "columns":16,
          "firstgid":2597,
-         "image":"tilesets\/modern_kitchen.png",
+         "image":"/tilesets\/modern_kitchen.png",
          "imageheight":1472,
          "imagewidth":512,
          "margin":0,
@@ -3755,7 +3755,7 @@
         {
          "columns":16,
          "firstgid":3289,
-         "image":"tilesets\/modern_livingroom.png",
+         "image":"/tilesets\/modern_livingroom.png",
          "imageheight":864,
          "imagewidth":512,
          "margin":0,
@@ -3768,7 +3768,7 @@
         {
          "columns":22,
          "firstgid":3610,
-         "image":"tilesets\/modern_office.png",
+         "image":"/tilesets\/modern_office.png",
          "imageheight":768,
          "imagewidth":704,
          "margin":0,
@@ -3781,7 +3781,7 @@
         {
          "columns":4,
          "firstgid":4066,
-         "image":"tilesets\/sofas_chairs.png",
+         "image":"/tilesets\/sofas_chairs.png",
          "imageheight":160,
          "imagewidth":128,
          "margin":0,
@@ -3794,7 +3794,7 @@
         {
          "columns":16,
          "firstgid":4086,
-         "image":"tilesets\/modern_chill.png",
+         "image":"/tilesets\/modern_chill.png",
          "imageheight":1568,
          "imagewidth":512,
          "margin":0,
@@ -3807,7 +3807,7 @@
         {
          "columns":18,
          "firstgid":4790,
-         "image":"tilesets\/LimeZu_24_User_Interface_32x32_edited.png",
+         "image":"/tilesets\/LimeZu_24_User_Interface_32x32_edited.png",
          "imageheight":448,
          "imagewidth":576,
          "margin":0,
@@ -3820,7 +3820,7 @@
         {
          "columns":5,
          "firstgid":4887,
-         "image":"tilesets\/posters.png",
+         "image":"/tilesets\/posters.png",
          "imageheight":704,
          "imagewidth":160,
          "margin":0,
@@ -3833,7 +3833,7 @@
         {
          "columns":13,
          "firstgid":4997,
-         "image":"tilesets\/WA_User_Interface.png",
+         "image":"/tilesets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
